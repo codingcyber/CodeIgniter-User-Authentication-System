@@ -44,3 +44,8 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d 
 RewriteRule ^(.*)$ index.php/$1 [L]
 ```
+
+# For Complete text Article and Video Tutorials checkout these links
+<a href="https://codingcyber.org/user-authentication-system-codeigniter-login-register-6970/">Complete User Authentication System in CodeIgniter</a>
+
+<a href="https://www.udemy.com/codeigniter-user-authentication-system/?couponCode=GITHUB">Complete User Authentication Course on Udemy</a>
