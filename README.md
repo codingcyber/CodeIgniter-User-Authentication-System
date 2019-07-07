@@ -2,7 +2,7 @@
 Creating User Authentication System in CodeIgniter with User Registration, Login, Reset Password features. 
 All forms are with CSRF Prorection.
 
-
+## Setup the Script
 1. Download the Script
 2. Extract it into web directory
 3. Create a Database with the name of **ciauth** & import the SQL file into the database
